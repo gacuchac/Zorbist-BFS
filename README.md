@@ -1,2 +1,2 @@
-# Base-T3-2018-1
-Repositorio base para la tarea 3
+# Zorbist hashing and BFS
+Finds shortest solution for board game using Zorbist and BFS 
